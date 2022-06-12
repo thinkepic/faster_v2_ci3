@@ -42,6 +42,7 @@
         </div>
       </div>
     </div>
+    <script src="<?= base_url()?>assets/plugins/custom/tinymce/tinymce.bundle.js"></script>
     <script src='<?= base_url()?>assets/plugins/global/plugins.bundle.js'></script>
     <script src='<?= base_url()?>assets/js/scripts.bundle.js'></script>
     <script src='<?= base_url()?>assets/js/custom.js'></script>
