@@ -382,7 +382,7 @@
                                                 <!--end::Avatar-->
                                             </td>
                                             <!--begin::User=-->
-                                            <td class="d-flex align-items-center">
+                                            <td>
                                                 <!--begin::User details-->
                                                 <div class="d-flex flex-column">
                                                     <span class="text-success fs-6"> Sesi Pejabat </span>
@@ -482,7 +482,7 @@
                                                 <!--end::Avatar-->
                                             </td>
                                             <!--begin::User=-->
-                                            <td class="d-flex align-items-center">
+                                            <td>
                                                 <!--begin::User details-->
                                                 <div class="d-flex flex-column">
                                                     <span class="text-warning fs-6"> Sesi Bidan </span>
@@ -580,7 +580,7 @@
                                                 <!--end::Avatar-->
                                             </td>
                                             <!--begin::User=-->
-                                            <td class="d-flex align-items-center">
+                                            <td>
                                                 <!--begin::User details-->
                                                 <div class="d-flex flex-column">
                                                     <span class="text-danger fs-6"> Sesi Dokter </span>
