@@ -14,13 +14,6 @@ class Eventorganizing extends Apps {
     $this->template("v_detail_eventorganizing");
   }
 
-<<<<<<< HEAD
-=======
-  function tes(){
-    echo "alhamdulillah";
-  }
-
->>>>>>> 015f185 (merapikan grid yang tidak rapi)
 }
 
 /* End of file Eventorganizing.php */
